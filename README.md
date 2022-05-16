@@ -33,3 +33,14 @@ def solution():
 
 2. Notebooks should include the reproduction clause at the end.
 
+
+
+## Housekeeping notes
+
+Large filesize warning, likely due to images - we will need to consider CDN for
+including images/animations in the notebook files.
+
+After the legacy conversion the tree will have to be scrubbed:
+[docs](https://docs.github.com/en/enterprise-server@3.1/repositories/working-with-files/managing-large-files/about-large-files-on-github)
+
+
